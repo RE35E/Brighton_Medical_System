@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\reese\\Downloads\\CMPG212 EXAM PROJECT\\46859675_EXAM_PROJECT_WINFORM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67BD5DEE-1D9B-4215-815F-D05A9A20E260}|46859675_EXAM_PROJECT_WINFORM\\46859675_EXAM_PROJECT_WINFORM.csproj|C:\\Users\\reese\\Downloads\\CMPG212 EXAM PROJECT\\46859675_EXAM_PROJECT_WINFORM\\46859675_exam_project_winform\\addpaatientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BD5DEE-1D9B-4215-815F-D05A9A20E260}|46859675_EXAM_PROJECT_WINFORM\\46859675_EXAM_PROJECT_WINFORM.csproj|solutionrelative:46859675_exam_project_winform\\addpaatientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BD5DEE-1D9B-4215-815F-D05A9A20E260}|46859675_EXAM_PROJECT_WINFORM\\46859675_EXAM_PROJECT_WINFORM.csproj|C:\\Users\\reese\\Downloads\\CMPG212 EXAM PROJECT\\46859675_EXAM_PROJECT_WINFORM\\46859675_exam_project_winform\\invoiceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67BD5DEE-1D9B-4215-815F-D05A9A20E260}|46859675_EXAM_PROJECT_WINFORM\\46859675_EXAM_PROJECT_WINFORM.csproj|solutionrelative:46859675_exam_project_winform\\invoiceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67BD5DEE-1D9B-4215-815F-D05A9A20E260}|46859675_EXAM_PROJECT_WINFORM\\46859675_EXAM_PROJECT_WINFORM.csproj|C:\\Users\\reese\\Downloads\\CMPG212 EXAM PROJECT\\46859675_EXAM_PROJECT_WINFORM\\46859675_exam_project_winform\\addpaatientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{67BD5DEE-1D9B-4215-815F-D05A9A20E260}|46859675_EXAM_PROJECT_WINFORM\\46859675_EXAM_PROJECT_WINFORM.csproj|solutionrelative:46859675_exam_project_winform\\addpaatientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "addPaatientForm.cs",
+              "DocumentMoniker": "C:\\Users\\reese\\Downloads\\CMPG212 EXAM PROJECT\\46859675_EXAM_PROJECT_WINFORM\\46859675_EXAM_PROJECT_WINFORM\\addPaatientForm.cs",
+              "RelativeDocumentMoniker": "46859675_EXAM_PROJECT_WINFORM\\addPaatientForm.cs",
+              "ToolTip": "C:\\Users\\reese\\Downloads\\CMPG212 EXAM PROJECT\\46859675_EXAM_PROJECT_WINFORM\\46859675_EXAM_PROJECT_WINFORM\\addPaatientForm.cs",
+              "RelativeToolTip": "46859675_EXAM_PROJECT_WINFORM\\addPaatientForm.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAmwGMAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T08:49:26.37Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "invoiceForm.cs",
+              "DocumentMoniker": "C:\\Users\\reese\\Downloads\\CMPG212 EXAM PROJECT\\46859675_EXAM_PROJECT_WINFORM\\46859675_EXAM_PROJECT_WINFORM\\invoiceForm.cs",
+              "RelativeDocumentMoniker": "46859675_EXAM_PROJECT_WINFORM\\invoiceForm.cs",
+              "ToolTip": "C:\\Users\\reese\\Downloads\\CMPG212 EXAM PROJECT\\46859675_EXAM_PROJECT_WINFORM\\46859675_EXAM_PROJECT_WINFORM\\invoiceForm.cs",
+              "RelativeToolTip": "46859675_EXAM_PROJECT_WINFORM\\invoiceForm.cs",
+              "ViewState": "AQIAAHQAAAAAAAAAAAAmwIsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T08:52:50.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "addPaatientForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\reese\\Downloads\\CMPG212 EXAM PROJECT\\46859675_EXAM_PROJECT_WINFORM\\46859675_EXAM_PROJECT_WINFORM\\addPaatientForm.cs",
+              "RelativeDocumentMoniker": "46859675_EXAM_PROJECT_WINFORM\\addPaatientForm.cs",
+              "ToolTip": "C:\\Users\\reese\\Downloads\\CMPG212 EXAM PROJECT\\46859675_EXAM_PROJECT_WINFORM\\46859675_EXAM_PROJECT_WINFORM\\addPaatientForm.cs [Design]",
+              "RelativeToolTip": "46859675_EXAM_PROJECT_WINFORM\\addPaatientForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T18:49:30.68Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
