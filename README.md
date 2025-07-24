@@ -1,6 +1,6 @@
 # Brighton Medical Appointment System
 
-This is a dual-interface medical appointment management system developed for Brighton Medical as part of the CMPG212 exam project. The system includes a WinForms desktop application for administrative staff and a web application for patients to book and manage appointments.
+This is a dual-interface medical appointment management system developed for Brighton Medical as part of the CMPG212 project. The system includes a WinForms desktop application for administrative staff and a web application for patients to book and manage appointments.
 
 ---
 
